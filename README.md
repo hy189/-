@@ -80,6 +80,13 @@ FC3：第三個全連接層，即輸出層，輸入特徵維度為64，輸出特
 ![image](https://github.com/hy189/-/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-01%20180853.png)
 
 
+ 模型训练
 
+ ![image](https://github.com/hy189/-/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-02%20115448.png)
 
+简单地导入一张图，然后进行直观测试
+
+![image](https://github.com/hy189/-/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-02%20115501.png)
+ 
+![image](https://github.com/hy189/-/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-02%20115514.png)
 
